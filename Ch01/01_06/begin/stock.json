@@ -3,5 +3,6 @@
   "manufacturer": "Prism",
   "wholesalePrice": 84,
   "listPrice": 99.95,
-  "inStock": true
+  "inStock": true,
+  "listpricehistory": [ 95.00, 89.12, 40]
 }
