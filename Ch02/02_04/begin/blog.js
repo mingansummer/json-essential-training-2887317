@@ -14,7 +14,7 @@ let posts = [
 ];
 
 // Enter code to stringify the `posts` variable here:
-
+const postsJson = JSON.Stringify(posts); 
 
 let article = {
   id: "386",
@@ -24,4 +24,4 @@ let article = {
 };
 
 // Enter code to stringify the `article` variable here:
-
+const articleJson = JSON.Stringify(article); 
