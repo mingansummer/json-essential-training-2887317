@@ -1,5 +1,5 @@
 // Schema for weather data
-var weatherSchema = {{
+var weatherSchema = {
     "$schema": "https://json-schema.org/draft-07/schema",
     "$id": "http://example.com/example.json",
     "title": "Root Schema",
@@ -139,4 +139,4 @@ var weatherSchema = {{
             }
         }
     }
-}};
+};
